@@ -147,7 +147,8 @@ RegisterNumber:  25012775
 ```
 
 ## Output:
-<img width="721" height="711" alt="image" src="https://github.com/user-attachments/assets/a7dd24d8-cc8a-4f02-8555-9c10774e4bfd" />
+
+<img width="721" height="711" alt="Screenshot 2025-11-24 114209" src="https://github.com/user-attachments/assets/feb60fc8-5a3f-4420-9970-ca45c9fce0ed" />
 
 
 ## Result:
