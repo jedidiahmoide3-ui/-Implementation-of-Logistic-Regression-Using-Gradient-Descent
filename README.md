@@ -144,11 +144,13 @@ Developed by: Jedidiah M D
 
 RegisterNumber:  25012775
 
-```
+
 
 ## Output:
 
-<img width="721" height="711" alt="Screenshot 2025-11-24 114209" src="https://github.com/user-attachments/assets/feb60fc8-5a3f-4420-9970-ca45c9fce0ed" />
+<img width="721" height="711" alt="Screenshot 2025-11-24 114209" src="https://github.com/user-attachments/assets/99ebcaff-7e3f-4db5-afe8-4cb58b510b4a" />
+
+
 
 
 ## Result:
